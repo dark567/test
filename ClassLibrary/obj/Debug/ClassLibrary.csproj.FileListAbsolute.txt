@@ -1,0 +1,6 @@
+D:\A-level2017\8\ConsoleApp\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\A-level2017\8\ConsoleApp\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\A-level2017\8\ConsoleApp\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\A-level2017\8\ConsoleApp\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\A-level2017\8\ConsoleApp\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\A-level2017\8\ConsoleApp\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache

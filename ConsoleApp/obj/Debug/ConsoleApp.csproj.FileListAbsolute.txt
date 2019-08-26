@@ -1,0 +1,11 @@
+D:\A-level2017\8\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\A-level2017\8\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\A-level2017\8\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\A-level2017\8\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\A-level2017\8\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\A-level2017\8\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\A-level2017\8\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\A-level2017\8\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary.dll
+D:\A-level2017\8\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary.pdb
+D:\A-level2017\8\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\A-level2017\8\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary1.dll
